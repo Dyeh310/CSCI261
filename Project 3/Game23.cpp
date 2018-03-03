@@ -1,4 +1,4 @@
-/* Author: Nicholas Heyd
+/* Author: NMH
    Project 3
    This program implements
    plays the game 23.
