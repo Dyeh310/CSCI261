@@ -1,4 +1,4 @@
-/* Author: Nicholas Heyd
+/* Author: NMH
    Project 2
    This program implements
    the Harris-Benedict equation.
